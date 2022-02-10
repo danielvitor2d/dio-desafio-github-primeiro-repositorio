@@ -1,1 +1,2 @@
-Link para download do Git: https://git-scm.com/downloads
+Link para download do Git: [Download Git](https://git-scm.com/downloads)
+Git é um sistema de versionamento de código distribuído
